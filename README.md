@@ -1,7 +1,7 @@
 # Verity: Enhanced Edition (Community Remaster) 🕯️
 [![Version](https://img.shields.io/badge/version-2.0.0-orange.svg)](#)
 [![Loader](https://img.shields.io/badge/loader-Forge-red.svg)](#)
-[![Minecraft](https://img.shields.io/badge/Minecraft-1.18%20--%201.20.4-green.svg)](#)
+[![Minecraft](https://img.shields.io/badge/Minecraft-1.18%20--%201.21.11-green.svg)](#)
 
 **The ultimate Verity experience, rebuilt for modern Minecraft.**
 
