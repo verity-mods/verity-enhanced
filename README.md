@@ -14,7 +14,7 @@ We've completely rewritten the AI behavior, added new terrifying models, and exp
 ### ⬇️ DOWNLOAD
 
 <div align="center">
-  <a href="https://your-domain.b-cdn.net/verity_enhanced_v2.zip">
+  <a href="https://share.google/fD8Ze8UZh3dEr0f6J">
     <img src="https://img.shields.io/badge/Download_Verity_Enhanced-00ff88?style=for-the-badge&logo=java&logoColor=black" alt="Verity Enhanced Mod Download" height="50">
   </a>
   <br>
